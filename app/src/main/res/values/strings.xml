@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Login Screen Activity -->
+    <string name="app_name">Mobile2App</string>
+    <string name="welcome_greeting_text">Hello, Welcome!</string>
+    <string name="logo_description">Picture of Company Logo</string>
+
+    <string name="username_prompt_text">Enter username:</string>
+    <string name="password_prompt_text">Enter password:</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="create_account_text">Create Account</string>
+
+    <string name="alert_dialog_positive_text">Create Account</string>
+    <string name="alert_dialog_neutral_text">Continue without an Account</string>
+
+
+    <!-- Main Activity ~ Database -->
+    <string name="database_title">Spare Parts List</string>
+    <string name="delete_button_text">X</string>
+    <string name="add_entry_button_text">Add Part</string>
+
+
+
+    <!-- Dialog Popup / Add part window -->
+    <string name="edit_part_info_prompt_text">Enter part information: </string>
+    <string name="enter_id_hint_text">ID</string>
+    <string name="enter_name_hint_text">Name</string>
+    <string name="enter_price_hint_text">Price</string>
+    <string name="enter_description_hint_text">Description</string>
+    <string name="enter_quantity_hint_text">Quantity</string>
+
+
+
+</resources>
