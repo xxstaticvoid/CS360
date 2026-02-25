@@ -2,6 +2,13 @@
 CS 360: Mobile Architecture and Programming
 
 
+
+![Login Screen](assets/images/LoginActivity_screenshot.png) ![Inventory Screen](assets/images/MainActivity_screenshot.png)
+
+
+
+
+
 ### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 hello
 ### What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
