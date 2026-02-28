@@ -1,12 +1,17 @@
 # CS360
-CS 360: Mobile Architecture and Programming
+## CS 360: Mobile Architecture and Programming
 
 
-
-![Login Screen](assets/images/LoginActivity_screenshot.png) ![Inventory Screen](assets/images/MainActivity_screenshot.png)
-
-
-
+<table>
+  <tr>
+    <td>Login Page</td>
+    <td>Main Inventory Page</td>
+  </tr>
+  <tr>
+    <td><img src="./assets/images/LoginActivity_screenshot.png"></td>
+    <td><img src="./assets/images/MainActivity_screenshot.png"></td>
+  </tr>
+</table>
 
 
 ### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
